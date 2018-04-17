@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Boop",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/enarCUc.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Boopaly",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/1UZRA2n.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Booperton",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/2rZ2XaK.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Boopy",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/MnoB9SQ.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Boopelangelo",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/0dZAI8y.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Boop Marley",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/2vzAPer.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Booper",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/NiSzq3O.png"
+  },
+  {
+    "id": 8,
+    "name": "Boopatron",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/yb1i1wN.png"
+  },
+  {
+    "id": 9,
+    "name": "Boopbop",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/Qy7ILeA.png"
+  },
+  {
+    "id": 10,
+    "name": "Beep-Boop",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/QaKxsXv.png"
+  },
+  {
+    "id": 11,
+    "name": "Boople Jackson",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/UZCO7ea.png"
+  },
+  {
+    "id": 12,
+    "name": "Booper Trooper",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/q8uY1t5.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Boopaloop",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/CPOmUCv.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Boopalong Cassidy",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/Ypw6Fa6.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Boopish",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/a3uvgD9.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Boopish",
+    "clicked": false,
+    "image":
+      "https://i.imgur.com/VNsGqcZ.jpg"
+  }
+]
+
